@@ -6,9 +6,9 @@ set -e
 
 # 存档当前文件
 
-git add -A
-git commit -m "update"
-git push
+# git add -A
+# git commit -m "update"
+# git push
 
 # 生成静态文件
 # yarn build
