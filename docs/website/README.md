@@ -4,6 +4,9 @@ sidebar: auto
 
 # 网站
 
+## 一些不明所以的网站
+- [**formic**](https://www.formic.com/) formic
+  
 ## 常看的网站
 
 - [**overreacted**](https://overreacted.io/) react Dan 的个人博客，更新频率很高（redux 作者，react 核心开发）

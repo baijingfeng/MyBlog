@@ -4,10 +4,20 @@ sidebar: auto
 
 # 推荐库
 
-**这里主要推荐一下自己平时常用，提高效率的一些库和软件。**
+**这里主要推荐一下自己平时常用，提高效率的一些库和工具。**
+
+## 库
+- [**moment.js**](https://momentjs.com/docs/)是一个简单易用的轻量级 JavaScript 日期处理类库，提供了日期格式化、日期解析等功能。它支持在浏览器和 NodeJS 两种环境中运行。
+- [**moment.js 中文网**](http://momentjs.cn/docs/)
+- [**html2canvas**](http://html2canvas.hertzen.com/documentation)JavaScript 实现页面截图的类库
+- [**Immutable.js**](https://immutable-js.github.io/immutable-js/docs/)Immutable 是 Facebook 开发的不可变数据集合
+- [**formik**](https://formik.org/docs/overview)构建 React 表单的开源库：Formik
+- [**clipboard.js**](https://clipboardjs.com/)Clipboard.js 实现了纯 JavaScript （无 Flash）的浏览器内容复制到系统剪贴板的功能。可以在浏览器和 Node 环境中使用。
+- [**passportjs**](http://www.passportjs.org/docs/downloads/html/) Passport 是一个 Node 平台的身份认证中间件，极其灵活和模块化
+- [**axios中文文档**](http://axios-js.com/zh-cn/docs/)  Axios 是一个基于 promise 的 HTTP 库，可以用在浏览器和 node.js 中
 
 ## 前端常用
-
+- [**sweetalert2**](https://github.com/sweetalert2/sweetalert2) 一个自适应，且自定义性强的弹出框（零依赖）
 - [**sweetalert2**](https://github.com/sweetalert2/sweetalert2) 一个自适应，且自定义性强的弹出框（零依赖）
 - [**tippy.js**](https://github.com/atomiks/tippyjs) 最著名的 tooltip/popover library
 - [**text-mask**](https://github.com/text-mask/text-mask) 可以让 input 按照规则输入(如电话,email,日期,信用卡等)，特殊格式 input

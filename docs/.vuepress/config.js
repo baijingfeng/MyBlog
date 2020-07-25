@@ -16,29 +16,33 @@ module.exports = {
   themeConfig: {
     nav: [
       {
-        text: 'Home',
+        text: '首页',
         link: '/'
       },
-      // {
-      //   text: 'API',
-      //   link: '/apiWebsite/'
-      // },
       {
-        text: 'Library',
+        text: 'API网站',
+        link: '/apiWebsite/'
+      },
+      {
+        text: '常用库与工具',
         link: '/library/'
       },
       {
-        text: '网站',
+        text: '其他网站',
         link: '/website/'
+      },
+      {
+        text: '友情链接',
+        link: '/others/'
       },
       // {
       //   text: '最近阅读',
       //   link: '/diary/read'
       // },
-      {
-        text: '文章',
-        link: '/article/'
-      },
+      // {
+      //   text: '文章',
+      //   link: '/article/'
+      // },
       // { text: '工具', link: 'https://google.com' },
       // {
       //   text: '面试',
@@ -59,7 +63,7 @@ module.exports = {
     editLinks: true,
     docsDir: 'docs',
     editLinkText: '在 GitHub 上编辑此页',
-    sidebarDepth: 3
+    sidebarDepth: 4
   },
   configureWebpack: {
     resolve: {
