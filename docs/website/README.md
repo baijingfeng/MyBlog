@@ -3,21 +3,55 @@ sidebar: auto
 ---
 
 # 实用网站
+## 搜索引擎
+- [**百度**](https://www.baidu.com/) 
+- [**Google**](https://www.google.com/) 
+- [**快搜**](https://search.chongbuluo.com/) 集成各种搜索工具于一体，非常好用
 
-## 收集的网站
+## 代码托管
+- [**GitHub**](https://github.com/) 
+- [**码云Gitee**](https://gitee.com/)
+ 
+## 文档编辑
+- [**语雀**](https://www.yuque.com/)
+- [**石墨文档**](https://shimo.im/welcome)
+- [**印象笔记**](https://www.yinxiang.com/)
 
+## 协同平台
+- [**蓝湖**](https://lanhuapp.com) 一款产品文档和设计图的共享平台，高效的产品设计协作平台
+- [**Slack**](https://slack.com/intl/en-cn/) 用于企业沟通和协作
+- [**钉钉**](https://www.dingtalk.com) 工作用途，沟通和协作
+- [**TAPD**](https://www.tapd.cn/) 一站式敏捷研发协作云平台
+- [**Trello**](https://trello.com/) 
+- [**Teambition**](https://www.teambition.com/) 
+
+## 交流社区 && 技术论坛 && 写作平台
+- [**stackoverflow**](https://stackoverflow.com/)
+- [**CSDN**](https://www.csdn.net/)
+- [**思否segmentfault**](https://segmentfault.com/)
+- [**掘金**](https://juejin.im/)
+- [**简书**](https://www.jianshu.com/)
+- [**知乎**](https://www.zhihu.com/hot)
+- [**cnode**](https://cnodejs.org/)Node.js专业中文社区
+- [**V2EX**](https://www.v2ex.com/) 挺活跃的一个技术论坛
+- [**InfoQ**](https://www.infoq.cn/topic/Front-end) 文章的质量比一般网站的高不少
+- [**InfoQ**](https://www.infoq.cn/topic/Front-end) 文章的质量比一般网站的高不少
+
+## 收集的网站或收藏册
+- [**😎 Awesome lists **](https://github.com/sindresorhus/awesome) github上各种Awesome的集合
 - [**awesome-bookmarks**](https://panjiachen.gitee.io/awesome-bookmarks/repository/) panjiachen的收藏站，也是本网站最初复制整理的网站。
+- [**前端技术专题集**](https://github.com/qq449245884/xiaozhi) 前端技术专题集
 - [**overreacted**](https://overreacted.io/) react Dan 的个人博客，更新频率很高（redux 作者，react 核心开发）
 - [**DailyJS**](https://medium.com/dailyjs)
 - [**codeburst**](https://codeburst.io/)
-- [**阮一峰的网络日志**](http://www.ruanyifeng.com/blog/) 阮老师出的东西还是值得一读的
-- [**InfoQ**](https://www.infoq.cn/topic/Front-end) 文章的质量比一般网站的高不少
 - [**鱼塘**](https://www.printf520.com/hot.html) 划水网站 收集了很多网站 当天热门文章
 - [**每日时报**](https://wubaiqing.github.io/zaobao/) 定期会分享一些库和工具
 - [**awesome-f2e-libs**](https://github.com/sorrycc/awesome-f2e-libs) sorrycc 整理的个人关注使用的前端库
 
 ## 算法
-- [**leetcode**](https://github.com/azl397985856/leetcode) 用 js 刷 leetcode
+- [**leetcode**](https://leetcode-cn.com/)
+- [**POJ**](http://poj.org/problemlist)
+ 
 ## Github
 
 - [**github 短域名服务**](https://git.io)
@@ -30,7 +64,13 @@ sidebar: auto
 - [**star-history**](https://www.timqian.com/star-history/#PanJiaChen/vue-element-admin) 展示一个项目 Stars 增长规矩曲线
 - [**probot**](https://github.com/probot/probot) 基于 github 做一个小机器人。可以做很多 workflow 的事情
 
+## 在线编程，创建项目网站
+- [**glitch**](https://glitch.com/) 在线编程网站
+- [**codesandbox**](https://codesandbox.io) 在线编程网站
+- [**codepen**](https://codepen.io/) 在线编程网站
+
 ## 开发
+- [**Google Developers**](https://developers.google.com/web/updates/capabilities) Chrome更新日志
 - [**产品/设计师/独立开发者的资源库**](https://maliquankai.com/designnav/) 很全很强大
 - [**can i use**](https://caniuse.com/) 前端常用网站了 查看不同属性和方法的兼容性
 - [**Squoosh**](https://squoosh.app/) 谷歌出品在线免费图片压缩工具 神器
@@ -88,10 +128,7 @@ sidebar: auto
 - [**coderlane**](https://coderlane.net/) 远程视频面试，目前使用的是牛客，这个工具待考察
 
 ## 设计
-
-- [**uimovement**](https://uimovement.com/) 能从这个网站找到不少动画交互的灵感
-- [**awwwards**](https://www.awwwards.com/)是一个一个专门为设计精美的网站以及富有创意的网站颁奖的网站
-- [**dribbble**](https://dribbble.com/) 经常能在上面找到很多有创意好看的 gif 或者图片，基本上我所有的图都是上面招的
+- [**artbreeder**](https://artbreeder.com/) 可以在线生成随机meme、头像、专辑封面、风景图片以及二次元头像，通过选定两个或多个图片你可以决定图片中的内容和风格
 - [**Bēhance**](https://www.behance.net/) dribbble 是设计师的微博，Bēhance 是设计师的博客
 - [**Logojoy**](https://logojoy.com/) 使用 ai 做 logo 的网站，做出来的 logo 质量还不错。
 - [**brandmark**](http://brandmark.io/) 另一个在线制作 logo 网站
@@ -113,7 +150,8 @@ sidebar: auto
 - [**undraw**](https://undraw.co/illustrations) 一个免费的插图网站，可以在上面寻找合适的插图，用于商业用途。
 
 ## 有趣
-
+- [**Pharaoh Ramesses VI Tomb**](https://my.matterportvr.cn/show/?m=NeiMEZa9d93&mls=1) 逆向工程三维扫描与VR室内漫游
+- [**Nomad List — Best Places to Live and Work Remotely**](https://nomadlist.com) Nomad List,找适合远程工作的城市
 - [**帮你百度一下**](http://www.baidu-x.com/) 可以 [点我测试一下\*\*](http://www.baidu-x.com/?q=%E5%92%8C%E8%B0%90%E6%9C%89%E7%88%B1%E5%AF%8C%E5%BC%BA)-
 - [**国际版**](http://lmgtfy.com/) 同`帮我百度一下`-[点我测试一下\*\*](http://lmgtfy.com/?q=a)-
 - [**wallhaven**](https://alpha.wallhaven.cc/) 壁纸网站-
@@ -143,7 +181,6 @@ sidebar: auto
 - [**磨刀**](https://modao.cc/pricing) 快速出 ui 原型
 
 ## 实用
-
 - [**写作猫**](https://xiezuocat.com/#/) 可以通过 AI 的方式，帮你检查错别字，很有效的一个工具
 - [**draw**](https://www.draw.io/) 在线 web 画流程图
 - [**typeform**](https://admin.typeform.com/signup) 一个国外的在线调查问卷网站
@@ -170,6 +207,22 @@ sidebar: auto
 
 ## Talk
 - [**peerigon-talks**](https://github.com/peerigon/talks) 收集了不少有意思的 talks
+
+## 面试相关
+  ### 1.熟人内推
+  ### 2.公司招聘官网
+  ### 3.面试平台
+  - [**拉勾**](https://www.lagou.com/)
+  - [**牛客网**](https://www.nowcoder.com/)
+  - [**Boss直聘**](https://www.zhipin.com/)
+  - [**前程无忧**](https://www.51job.com/)
+  - [**智联招聘**](https://www.zhaopin.com/)
+
+## 第三方平台
+- [**云雀客服**](https://www.yunque360.com/)全渠道客服系统 - 微信客服/微博客服/客资管理/在线咨询/在线客服软件
+- [**容联云通讯**](https://www.yuntongxun.com/)短信平台、手机验证码、语音验证码、IM即时通讯、云呼叫系统等互联网通信服务
+- [**友盟**](https://www.umeng.com/) 第三方网站数据统计与监测
+- [**快海报**](https://kuaihaibao.com/doc/index.html) 快海报提供小程序分享海报生成服务，接口为 HTTP API
 
 ## 一些不明所以的网站
 - [**formic**](https://www.formic.com/) formic

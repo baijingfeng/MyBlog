@@ -9,13 +9,14 @@ sidebar: auto
 ## 常用库
   ### 收集库
   - [**hocs**](https://github.com/deepsweet/hocs) react 相关 hoc 收集库
+  - [**markdown-it-emoji**](https://github.com/markdown-it/markdown-it-emoji/blob/master/lib/data/full.json) 将对应emoji表情的符号码复制后输入你的markdown文本即可显示emoji表情。
   
   ### 通用库
+  - [**html-dom**](https://github.com/phuoc-ng/html-dom) 一些常用的 dom 或者原生 js 操作判断，挺实用的
   - [**moment.js**](https://momentjs.com/docs/)是一个简单易用的轻量级 JavaScript 日期处理类库，提供了日期格式化、日期解析等功能。它支持在浏览器和 NodeJS 两种环境中运行。
   - [**moment.js 中文网**](http://momentjs.cn/docs/)
   - [**html2canvas**](http://html2canvas.hertzen.com/documentation)JavaScript 实现页面截图的类库
   - [**Immutable.js**](https://immutable-js.github.io/immutable-js/docs/)Immutable 是 Facebook 开发的不可变数据集合
-  - [**formik**](https://formik.org/docs/overview)构建 React 表单的开源库：Formik
   - [**clipboard.js**](https://clipboardjs.com/)Clipboard.js 实现了纯 JavaScript （无 Flash）的浏览器内容复制到系统剪贴板的功能。可以在浏览器和 Node 环境中使用。
   - [**passportjs**](http://www.passportjs.org/docs/downloads/html/) Passport 是一个 Node 平台的身份认证中间件，极其灵活和模块化
   - [**axios中文文档**](http://axios-js.com/zh-cn/docs/)  Axios 是一个基于 promise 的 HTTP 库，可以用在浏览器和 node.js 中
@@ -35,12 +36,12 @@ sidebar: auto
   - [**tui.image-editor**](https://github.com/nhnent/tui.image-editor) 一个功能齐全的在线图片编辑，基于 canvas
   - [**nanoid**](https://github.com/ai/nanoid) 是使用 JavaScript 开发、一个小型、安全、对 URL 友好的唯一字符串 ID 生成器。据作者说，比 uuid 更可靠和好用。至少从 API 的功能和易用性来看，似乎确实如此
   - [**rxdb**](https://github.com/pubkey/rxdb) 一款开源的快速、灵活的客户端数据库，支持各种浏览器以及 NodeJS，Electron、React 等等，是 PouthDB 之上的一个封装库
-  - [**rawact**](https://github.com/sokra/rawact) 一个 babel 插件，把 react 组件转为原生 dom
+  
   - [**ImmortalDB**](https://github.com/gruns/ImmortalDB) 是用于浏览器的弹性键值存储 ImmortalDB 是在浏览器中存储持久键值数据的最佳方法，保存在其中的数据被冗余地存储在 Cookies、IndexedDB
   - [**big.js**](https://github.com/MikeMcl/big.js) 解决 js 浮点数问题。 主要就是 Big Number 或者小数点，一个用于任意精度十进制算术的小而快速的JavaScript库。
   - [**bignumber.js**](https://github.com/MikeMcl/bignumber.js) 同上 
   - [**stickybits**](https://github.com/yowainwright/stickybits) CSS 的 position: sticky 是一个很有用的设置，但是老的浏览器不支持。这个 JS 库是该功能的垫片库。
-  - [**react-jsonschema-form**](https://github.com/mozilla-services/react-jsonschema-form) Mozilla service 开源了一个通过 JSON 直接生成表单的 React 组件
+  
   - [**cleave.js**](https://github.com/nosir/cleave.js) 用于在输入时格式化输入内容（信用卡格式、日期等）
   - [**shiny**](https://github.com/rikschennink/shiny) 在手机设备上模拟光的反射效果。 支持 DeviceMotion 事件
   - [**rrweb**](https://github.com/rrweb-io/rrweb) 一个可以记录你页面中所有操作的库
@@ -91,7 +92,12 @@ sidebar: auto
   - [**zdog**](https://github.com/metafizzy/zdog) 3D engine 引擎
   - [**leonsans**](https://github.com/cmiscm/leonsans) 酷炫的 字体 动画 geometric sans-serif typeface made with code
   - [**css-doodle**](https://github.com/css-doodle/css-doodle) A web component for drawing patterns with CSS 一个用于使用 CSS 绘制图案的 Web 组件
-  
+  ### React
+  - [**React Icons**](https://react-icons.github.io/react-icons/#/) 将一些受欢迎的图标包含到React项目中
+  - [**formik**](https://formik.org/docs/overview)构建 React 表单的开源库：Formik
+  - [**react-jsonschema-form**](https://github.com/mozilla-services/react-jsonschema-form) Mozilla service 开源了一个通过 JSON 直接生成表单的 React 组件
+  - [**rawact**](https://github.com/sokra/rawact) 一个 babel 插件，把 react 组件转为原生 dom
+
   ### Vue
   - [**vue-multiselect**](https://github.com/shentao/vue-multiselect) select 组件 目前 vue 里面用过最好用的
   - [**Vue.Draggable**](https://github.com/SortableJS/Vue.Draggable) DnD 拖拽组件 基于 Sortable.js 的 vue 版本

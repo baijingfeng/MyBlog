@@ -7,6 +7,16 @@ sidebar: auto
 **这里主要推荐一下平时常用的工具。**
 
 ## 通用工具
+- [**Google 学术**](https://scholar.google.com)
+- [**掘金高级搜索**](http://zy2071.com/Fun/jueJinSearch.html)
+- [**grep.app**](https://grep.app/)搜索50万个git repos
+- [**Pinbox**](https://withpinbox.com/) 跨平台收藏工具 
+- [**Uzer.me**](https://uzer.me/z/apps) 在网页上面可以直接使用常用的办公工具的云端软件平台 
+
+## 技术工具
+- [**jsPerf**](https://jsperf.com/) 在线js性能测试工具
+- [**StorePreviewer**](https://www.storepreviewer.com)  See What Your App Will Look Like On The App Store
+- [**squoosh**](https://squoosh.app/) Squoosh 是一个理想的图片压缩，可以离线使用的 Web App
 - [**lerna**](https://github.com/lerna/lerna) Lerna是一个管理包含多个软件包的JavaScript项目的工具
 - [**ReLaXed**](https://github.com/RelaxedJS/ReLaXed) 一个将 document html 转成 PDF 的工具
 - [**tui.editor**](https://github.com/nhnent/tui.editor) markdown 所见即所得编辑器
@@ -74,6 +84,15 @@ sidebar: auto
 - [**any-rule**](https://any86.github.io/any-rule/) 正则大全
 - [**outline**](https://github.com/outline/outline) 一个免费开源的库，能让你快速搭建自己的 wiki
 
+## 浏览器
+- [**Chrome**](https://www.google.com/chrome/) 
+- [**Firefox**](http://www.firefox.com.cn/) 
+- [**Firefox 开发者版本**](https://www.mozilla.org/zh-CN/firefox/developer/) 
+- [**Edge**](https://www.microsoft.com/zh-cn/edge) 
+- [**Opera**](http://www.oupeng.com/tor) 
+- [**Safari**](https://www.apple.com.cn/safari/) 
+- [**QQ浏览器**](https://browser.qq.com/?adtag=SEM170314031) 
+
 ## VS Code
   ### 通用
   - [**Import Cost**](https://marketplace.visualstudio.com/items?itemName=wix.vscode-import-cost) 查看你引入的依赖模块大小
@@ -95,6 +114,7 @@ sidebar: auto
 
 ## Chrome 扩展
 
+- [**图片助手(ImageAssistant) **](https://chrome.google.com/webstore/detail/imageassistant-batch-imag/dbjbempljhcmhlfpfacalomonjpalpko) 图片助手(ImageAssistant) 批量图片下载器
 - [**Tampermonkey**](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo) 油猴 神器
 - [**扩展管理器**](https://chrome.google.com/webstore/detail/extension-manager/gjldcdngmdknpinoemndlidpcabkggco/related?utm_source=chrome-ntp-icon) 轻松管理扩展，就不用担心安装太多扩展了
 - [**visbug**](https://github.com/GoogleChromeLabs/ProjectVisBug) 它可以帮助你改变 css，移动元素等等一系类强大的功能,页面调试神器。当然有些时候还是 DevTools 更好用
@@ -113,6 +133,7 @@ sidebar: auto
 - [**掘金**](https://chrome.google.com/webstore/detail/%E6%8E%98%E9%87%91/lecdifefmmfjnjjinhaennhdlmcaeeeb) 目前我默认新开 tab 的默认页，可以刷刷新的文章或者项目，还不错。
 - [**沙拉查词**](https://chrome.google.com/webstore/detail/%E6%B2%99%E6%8B%89%E6%9F%A5%E8%AF%8D-%E8%81%9A%E5%90%88%E8%AF%8D%E5%85%B8%E5%88%92%E8%AF%8D%E7%BF%BB%E8%AF%91/cdonnmffkdaoajfknoeeecmchibpmkmg) 划词翻译插件
 - [**npmhub**](https://github.com/npmhub/npmhub)在 README 下方显示 npm 依赖信息
+- [**Ghelper**](http://googlehelper.net/)一个简单的用于访问google的插件
 
 ## 编辑器和 Terminal
 - [**Go2shell**](https://zipzapmac.com/Go2Shell) 在当前文件夹打开 shell
@@ -135,9 +156,11 @@ sidebar: auto
 - [**postman**](https://www.getpostman.com/) api 调试工具
 - [**Sequel Pro**](https://www.sequelpro.com/) MySQL 界面管理工具
 - [**KeepingYouAwake**](https://github.com/newmarcel/KeepingYouAwake) 可保证系统不自动休眠，挂机跑脚本很有用
+- [**Swagger UI**](https://swagger.io/tools/swagger-ui/) Swagger 是一个规范和完整的框架，用于生成、描述、调用和可视化 RESTful 风格的 Web 服务，部署管理和使用API
 
 ## 其他有趣的工具
 
+- [**演示图灵完备**](http://fatiherikli.github.io/brainfuck-visualizer/) Brainfuck Visualizer演示图灵完备
 - [**the-bread-code**](https://github.com/hendricius/the-bread-code) 使用程序员的思维制作面包 ，比如制作中使用 A/B test,
   来比较那种做法更好。
 - [**build-your-own-x**](https://github.com/danistefanovic/build-your-own-x) 教你用各种语言实现 Bot Database Neural Network
@@ -177,6 +200,24 @@ sidebar: auto
 - [**Gifski**](https://github.com/sindresorhus/gifski-app) 视频转 gif 工具
 - [**more**](https://github.com/serhii-londar/open-source-mac-os-apps) 更多优秀的 mac app 介绍
 - [**Motrix**](https://github.com/agalwood/Motrix) 支持 HTTP、FTP、BT、磁力链、百度网盘的下载工具
+- [**webui-aria2**](https://ziahamza.github.io/webui-aria2/) 下载工具Aria的WebUI工具
 - [**iPic**](https://apps.apple.com/cn/app/ipic-markdown-%E5%9B%BE%E5%BA%8A-%E6%96%87%E4%BB%B6%E4%B8%8A%E4%BC%A0%E5%B7%A5%E5%85%B7/id1101244278?mt=12)这个应用可以让你方便地上传图片到各种图床
 - [**Image2Icon**](http://www.img2icnsapp.com/)
 - [**hidden**](https://github.com/dwarvesf/hidden) 是用来帮助你隐藏 macOS 菜单栏上那些不常用的应用图标
+
+## 在线解析工具
+- [**C在线工具**](https://tool.oschina.net)
+- [**esprima.org在线解析AST**](https://esprima.org/demo/parse.html) 
+- [**AST Visualization on browser在线解析AST**](http://nhiro.org/learn_language/AST-Visualization-on-browser.html) 
+- [**ASTexplorer在线解析AST**](https://astexplorer.net/) 
+- [**md5在线解密破解,md5解密加密**](https://www.cmd5.com/) 
+- [**JSON在线解析及格式化验证**](https://www.json.cn) 
+- [**在线二维码生成器**](https://cli.im/) 
+- [**在线正则解析工具**](https://regexper.com) 
+- [**在线正则解析工具**](https://jex.im/regulex/) 
+- [**在线测速**](https://www.17ce.com/) 
+- [**站长工具**](http://tool.chinaz.com/) 
+- [**在线转pdf**](https://www.aconvert.com/cn/pdf/odt-to-pdf/) 
+- [**地图选择器**](http://datav.aliyun.com/tools/atlas/) 获取对应地图区域的geojson和svg
+- [**图片背景消除**](https://www.remove.bg/zh) 在线抠图工具，去除图片背景
+- [**在线删除图片背景**](https://www.gaoding.com/koutu) 在线抠图工具，去除图片背景

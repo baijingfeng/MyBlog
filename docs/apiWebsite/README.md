@@ -8,6 +8,7 @@ sidebar: auto
 
 ## 1.API查询网站
 
+- [**MDN**](https://developer.mozilla.org/zh-CN/)
 - [**devdocs**](https://devdocs.io/) 快速API文档搜索工具
 - [**docschina**](https://docschina.org/) 印记中文,深入挖掘国外前端新领域,为中国 Web 前端开发人员提供优质文档
 - [**腾讯云开发者手册**](https://cloud.tencent.com/developer/doc/1096) 开发者手册是云+社区开发者共同维护的一个提供中文化编程基础技术教程的知识平台，提供了 HTML、CSS、JavaScript、Python、Ruby、C、Go 等各种编程语言的基础知识
@@ -29,6 +30,7 @@ sidebar: auto
   ### 包管理工具
   - [**npm**](https://www.npmjs.com/) npm 是 JavaScript 世界的包管理工具,并且是 Node.js 平台的默认包管理工具
   - [**yarn**](https://yarnpkg.com/) yarn，Facebook 贡献的 Javascript 包管理器
+  - [**cnpm**](https://developer.aliyun.com/mirror/NPM?from=tnpm) 一个完整 npmjs.org 镜像，同步频率目前为 10分钟 一次
   
   ### 前端工程化
 
@@ -49,9 +51,10 @@ sidebar: auto
   - [**webpack 中文文档2**](https://www.webpackjs.com/concepts/) webpack 中文文档2
   - [**Rollup.js**](https://github.com/rollup/rollup) Rollup 是一个 JavaScript 模块打包器,可以将小块代码编译成大块复杂的代码,Rollup 对代码模块使用新的标准化格式,这些标准都包含在 JavaScript 的 ES6 版本中。
 
-  #### 4.格式化工具
+  #### 4.格式化工具 & 其他
   - [**ESLint中文文档**](https://eslint.bootcss.com/)插件化的 JavaScript 代码检测工具
   - [**Prettier**](https://prettier.io/docs/en/options.html) 一个流行的代码格式化工具
+  - [**Babel**](https://www.babeljs.cn/docs/) Babel 是一个工具链，主要用于将 ECMAScript 2015+ 版本的代码转换为向后兼容的 JavaScript 语法，以便能够运行在当前和旧版本的浏览器或其他环境中。
 
   ### 语言与框架
   - [**ECMAScript Language Specification**](http://www.ecma-international.org/ecma-262/5.1/#sec-11.13)ECMAScript语言规范
@@ -129,7 +132,3 @@ sidebar: auto
 - [**prisma**](https://www.prisma.io/docs/) Prisma 则提供一套简洁的 API，使你更加方便地操作数据库和理解查询语句。Prisma 的 API 是类型安全的，返回的数据是普通的 JS 对象（plain old JavaScript objects）。让前端也能快速的写出API
 - [**Apollo GraphQL**](https://www.apollographql.com/) 是基于 GraphQL 的全栈解决方案集合。从后端到前端提供了对应的 lib 使得开发使用 GraphQL 更加的方便
 - [**dataloader**](https://github.com/facebook/dataloader) 解决 Graphql 中的 N+1 查询问题
-
-## 5.第三方平台
-- [**云雀客服**](https://www.yunque360.com/)全渠道客服系统 - 微信客服/微博客服/客资管理/在线咨询/在线客服软件
-

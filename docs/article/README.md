@@ -4,12 +4,18 @@
 主要是用来收集汇总平时看过得一些不错的文章，方便日后查找
 :::
 
-## React
+
+## 浏览器
+[How browsers work](http://taligarsiel.com/Projects/howbrowserswork1.htm#Resources)
 
 ## 编程
+[leetcode 题解](https://github.com/azl397985856/leetcode) 用 js 刷 leetcode
 
 [代码重构经验](https://panjiachen.github.io/awesome-bookmarks/article/coding.html)
 
+[Functors, Applicatives, And Monads In Pictures](http://adit.io/posts/2013-04-17-functors,_applicatives,_and_monads_in_pictures.html)
+
+## React
 ## Vue
 [手摸手，带你用 vue 撸后台 系列一(基础篇)](https://juejin.im/post/59097cd7a22b9d0065fb61d2)
 

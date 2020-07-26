@@ -2,7 +2,7 @@ const utils = require('./utils')
 
 module.exports = {
   title: "Bai Bookmarks",
-  description: "个人收藏夹",
+  description: "生有涯而知无涯，懂得取舍才是学习之道",
   base: '/bookmarks/',
   head: [
     [
@@ -42,6 +42,10 @@ module.exports = {
       {
         text: '实用网站',
         link: '/website/'
+      },
+      {
+        text: '资源网站',
+        link: '/assets/'
       },
       {
         text: '友情链接',
