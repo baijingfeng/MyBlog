@@ -24,8 +24,20 @@ module.exports = {
         link: '/apiWebsite/'
       },
       {
-        text: '常用库与工具',
+        text: '常用库与插件',
         link: '/library/'
+      },
+      {
+        text: '常用工具',
+        link: '/tools/'
+      },
+      {
+        text: '教程与书籍',
+        link: '/teachbooks/'
+      },
+      {
+        text: '文章',
+        link: '/article/'
       },
       {
         text: '其他网站',
@@ -33,29 +45,12 @@ module.exports = {
       },
       {
         text: '友情链接',
-        link: '/others/'
+        link: '/links/'
       },
-      // {
-      //   text: '最近阅读',
-      //   link: '/diary/read'
-      // },
-      // {
-      //   text: '文章',
-      //   link: '/article/'
-      // },
-      // { text: '工具', link: 'https://google.com' },
-      // {
-      //   text: '面试',
-      //   link: '/interview/'
-      // },
-      // {
-      //   text: '内推',
-      //   link: '/job/'
-      // },
-      // {
-      //   text: 'Blog',
-      //   link: '/blog/'
-      // }
+      {
+        text: '个人小站',
+        link: '/personal/'
+      },
     ],
     sidebar: utils.inferSiderbars(),
     lastUpdated: '上次更新',

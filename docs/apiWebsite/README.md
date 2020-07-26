@@ -4,7 +4,7 @@ sidebar: auto
 
 # API官网
 
-**这里主要记录一下经常用的API官网。**
+**这里主要记录一下经常使用的API官网。**
 
 ## 1.API查询网站
 
@@ -81,6 +81,9 @@ sidebar: auto
   - [**Ember.js**](https://emberjs.com/)Ember.js是一个开源的JavaScript客户端框架,用于开发Web应用程序并使用MVC(模型 - 视图 - 控制器)架构模式。
   - [**Flutter**](https://flutter.dev/docs) Flutter 是 Google 提供的新一代跨平台方案，开源的 UI 工具包，帮助开发者通过一套代码库高效构建多平台精美应用，支持移动、Web、桌面和嵌入式平台。
   - [**Flutter中文文档**](https://flutterchina.club/docs/) Flutter中文文档
+  - [**tabler**](https://github.com/tabler/tabler) Tabler 是一个基于 Bootstrap 4 开发的 HTML 仪表盘 UI 套件，旨在提供一个用户友好，清晰简单的管理面板，可适用于简单和复杂的网站系统。
+  - [**lulu**](https://github.com/yued-fe/lulu) 腾讯阅文基于 jQuery，针对 PC 网站 IE8+（peak 主题）的前端 UI 框架
+  - [**Jasonette**](https://github.com/Jasonette/JASONETTE-iOS) 一个用 json 来构建 hybrid App 的框架
   
   ### 兼容性
   - [**polyfill.io**](https://polyfill.io/) Polyfill 可以为旧浏览器提供和标准 API 一样的功能，polyfill.io是自动化的 JavaScript Polyfill 服务，只需要引入一个 JS 文件。 Polyfill.io 通过分析请求头信息中的 UserAgent 实现自动加载浏览器所需的 polyfills
@@ -106,9 +109,13 @@ sidebar: auto
   ### 可视化相关
   - [**ECharts**](https://echarts.apache.org/zh/tutorial.html)  ECharts 是一个使用 JavaScript 实现的开源可视化库,涵盖各行业图表,满足各种需求。
   - [**Three.js中文网**](http://www.webgl3d.cn/)Three.js是基于原生WebGL封装运行的三维引擎，在所有WebGL引擎中，Three.js是国内文资料最多、使用最广泛的三维引擎
-
-  ### 静态站点生成器
-  - [**VuePress 中文文档**](https://www.vuepress.cn/guide/#features)是一个基于 Vue 的轻量级静态网站生成器，以及为编写技术文档而优化的默认主题。
+  - [**chart.xkcd**](https://github.com/timqian/chart.xkcd) 手绘风格的图表库
+  
+  ### 静态站点生成器 && 文档管理
+  - [**VuePress 中文文档**](https://www.vuepress.cn/guide/#features)是一个基于 Vue 的轻量级静态网站生成器，以及为编写技术文档而优化的默认主题。本站就是使用它生成的
+  - [**docsify**](https://github.com/docsifyjs/docsify) 轻量级文档工具，但其是运行时编译的
+  - [**GitBook**](https://www.gitbook.com/) 除了编译慢没啥毛病
+  - [**docz**](https://github.com/pedronauck/docz)
   
 ## 3.MongoDB相关
 - [**MongoDB官网**](https://www.mongodb.com/) MongoDB 是一个基于分布式文件存储的数据库
@@ -116,6 +123,12 @@ sidebar: auto
 - [**mongoose 中文文档**](http://www.mongoosejs.net/docs/guide.html) mongoose 中文文档
 - [**mLab**](https://docs.mlab.com/) mLab是一款免费的在线mongodb云数据库产品,它为用户免费提供了500M容量
 
-## 4.第三方平台
+## 4.GraphQL
+
+- [**prisma**](https://www.prisma.io/docs/) Prisma 则提供一套简洁的 API，使你更加方便地操作数据库和理解查询语句。Prisma 的 API 是类型安全的，返回的数据是普通的 JS 对象（plain old JavaScript objects）。让前端也能快速的写出API
+- [**Apollo GraphQL**](https://www.apollographql.com/) 是基于 GraphQL 的全栈解决方案集合。从后端到前端提供了对应的 lib 使得开发使用 GraphQL 更加的方便
+- [**dataloader**](https://github.com/facebook/dataloader) 解决 Graphql 中的 N+1 查询问题
+
+## 5.第三方平台
 - [**云雀客服**](https://www.yunque360.com/)全渠道客服系统 - 微信客服/微博客服/客资管理/在线咨询/在线客服软件
 
