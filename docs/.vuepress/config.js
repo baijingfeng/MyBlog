@@ -24,6 +24,10 @@ module.exports = {
         link: '/apiWebsite/'
       },
       {
+        text: '实用网站',
+        link: '/website/'
+      },
+      {
         text: '常用库与插件',
         link: '/library/'
       },
@@ -38,11 +42,7 @@ module.exports = {
       {
         text: '文章收集',
         link: '/article/'
-      },
-      {
-        text: '实用网站',
-        link: '/website/'
-      },
+      }, 
       {
         text: '资源网站',
         link: '/assets/'

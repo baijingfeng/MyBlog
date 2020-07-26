@@ -1,9 +1,9 @@
 {
-  "name": "baijingfeng.github.io",
+  "name": "bookmarks",
   "version": "1.0.0",
   "main": "index.js",
-  "repository": "https://github.com/baijingfeng/baijingfeng.github.io.git",
-  "author": "baijingfeng <2596239285@qq.com>",
+  "repository": "https://github.com/baijingfeng/bookmarks.git",
+  "author": "bai.jingfeng <bai.jingfeng@foxmail.com>",
   "license": "MIT",
   "scripts": {
     "dev": "vuepress dev docs",

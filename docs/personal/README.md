@@ -2,7 +2,7 @@
 sidebar: auto
 ---
 
-# 个人相关
+# 最近阅读
 
 ## 书籍
 [资本论](https://article.xuexi.cn/articles/pdf/index.html?art_id=8346100746404790473)
