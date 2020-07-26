@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "main": "index.js",
   "repository": "https://github.com/baijingfeng/bookmarks.git",
-  "author": "bai.jingfeng <bai.jingfeng@foxmail.com>",
+  "author": "baijingfeng <bai.jingfeng@foxmail.com>",
   "license": "MIT",
   "scripts": {
     "dev": "vuepress dev docs",
