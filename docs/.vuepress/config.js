@@ -36,11 +36,11 @@ module.exports = {
         link: '/teachbooks/'
       },
       {
-        text: '文章',
+        text: '文章收集',
         link: '/article/'
       },
       {
-        text: '其他网站',
+        text: '实用网站',
         link: '/website/'
       },
       {
@@ -48,7 +48,7 @@ module.exports = {
         link: '/links/'
       },
       {
-        text: '个人小站',
+        text: '个人相关',
         link: '/personal/'
       },
     ],

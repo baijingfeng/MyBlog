@@ -47,6 +47,7 @@ sidebar: auto
   - [**webpack**](https://webpack.js.org/) 一个用于现代 JavaScript 应用程序的静态模块打包工具
   - [**webpack 中文文档**](https://webpack.docschina.org/concepts/) webpack 中文文档
   - [**webpack 中文文档2**](https://www.webpackjs.com/concepts/) webpack 中文文档2
+  - [**Rollup.js**](https://github.com/rollup/rollup) Rollup 是一个 JavaScript 模块打包器,可以将小块代码编译成大块复杂的代码,Rollup 对代码模块使用新的标准化格式,这些标准都包含在 JavaScript 的 ES6 版本中。
 
   #### 4.格式化工具
   - [**ESLint中文文档**](https://eslint.bootcss.com/)插件化的 JavaScript 代码检测工具

@@ -2,13 +2,11 @@
 sidebar: auto
 ---
 
-# 网站
+# 实用网站
 
-## 一些不明所以的网站
-- [**formic**](https://www.formic.com/) formic
-  
-## 常看的网站
+## 收集的网站
 
+- [**awesome-bookmarks**](https://panjiachen.gitee.io/awesome-bookmarks/repository/) panjiachen的收藏站，也是本网站最初复制整理的网站。
 - [**overreacted**](https://overreacted.io/) react Dan 的个人博客，更新频率很高（redux 作者，react 核心开发）
 - [**DailyJS**](https://medium.com/dailyjs)
 - [**codeburst**](https://codeburst.io/)
@@ -18,6 +16,8 @@ sidebar: auto
 - [**每日时报**](https://wubaiqing.github.io/zaobao/) 定期会分享一些库和工具
 - [**awesome-f2e-libs**](https://github.com/sorrycc/awesome-f2e-libs) sorrycc 整理的个人关注使用的前端库
 
+## 算法
+- [**leetcode**](https://github.com/azl397985856/leetcode) 用 js 刷 leetcode
 ## Github
 
 - [**github 短域名服务**](https://git.io)
@@ -31,7 +31,6 @@ sidebar: auto
 - [**probot**](https://github.com/probot/probot) 基于 github 做一个小机器人。可以做很多 workflow 的事情
 
 ## 开发
-
 - [**产品/设计师/独立开发者的资源库**](https://maliquankai.com/designnav/) 很全很强大
 - [**can i use**](https://caniuse.com/) 前端常用网站了 查看不同属性和方法的兼容性
 - [**Squoosh**](https://squoosh.app/) 谷歌出品在线免费图片压缩工具 神器
@@ -84,7 +83,6 @@ sidebar: auto
 - [**Ananas Analytics Desktop**](https://ananasanalytics.com/) 一站式 数据可视化
 - [**“零宽” 长度的短网址服务**](https://zws.im) 利用“零宽字符”来缩短 url，还支持统计
 - [**hotjar**](https://www.hotjar.com/) 用户调研 支持用户反馈 录屏 heatMap
-- [**狼叔：如何正确的学习 Node.js**](https://github.com/i5ting/How-to-learn-node-correctly)
 - [**独角兽公司榜单**](https://dujiaoshou.io/) 感觉大家想去大公司的时候，可以看看排名
 - [**中国传统颜色手册**](https://colors.ichuantong.cn/)
 - [**coderlane**](https://coderlane.net/) 远程视频面试，目前使用的是牛客，这个工具待考察
@@ -139,23 +137,6 @@ sidebar: auto
 - [**Comixify**](https://comixify.ii.pw.edu.pl/) 一个波兰团队做了非常好玩的工具，可以把视频自动转成漫画，上图是他们提供的 demo，效果很棒。
 - [**taiko-web**](https://github.com/bui/taiko-web) 太鼓达人网页版 只能说很 6
 
-## Css
-
-- [**css-tricks**](https://css-tricks.com/) 一个学习 css 不错的网站 有很多有意思的 demo
-
-## 教程
-
-- [**npx**](https://egghead.io/courses/execute-npm-package-binaries-with-the-npx-package-runner) 教你怎么合理的使用 npx
-- [**hacksplaining**](https://www.hacksplaining.com/lessons) 网络安全学习网站
-- [**mobile-web-best-practice**](https://github.com/mcuking/mobile-web-best-practice) 移动 web 最佳实践
-- [**vanillawebprojects**](https://github.com/bradtraversy/vanillawebprojects) 通过纯前端的手段实现一些小项目，适合入门
-- [**Think Python**](https://codingpy.com/books/thinkpython2/index.html) 还不错的 Python 入门教程
-- [**Node.js CLI Apps Best Practices**](https://github.com/lirantal/nodejs-cli-apps-best-practices) 叫你如何写好一个 node cli 工具
-- [**SQL Murder Mystery**](https://mystery.knightlab.com/walkthrough.html) 一个英文的 SQL 初级教程，以游戏的方式，让你利用学到的 SQL 概念和命令来找出谋杀凶手
-- [**html-dom**](https://github.com/phuoc-ng/html-dom) 一些常用的 dom 或者原生 js 操作判断，挺实用的
-- [**TypeScript**](https://ts.xcatliu.com/) TypeScript 入门教程，很不错，推荐初学者学习
-- [**Webpack 知识图谱**](https://tsejx.github.io/webpack-guidebook/) webpack 相关教程和原理分析还不错
-
 ## 产品
 
 - [**产品大牛**](http://www.pmdaniu.com/) 什么有很多完整的产品原型可以借鉴
@@ -188,14 +169,7 @@ sidebar: auto
 - [**龙轩导航**](http://ilxdh.com/) 一个总结了不少实用网站的导航
 
 ## Talk
-
 - [**peerigon-talks**](https://github.com/peerigon/talks) 收集了不少有意思的 talks
 
-## 算法
-
-- [**leetcode**](https://github.com/azl397985856/leetcode) 用 js 刷 leetcode
-
-## Typescript
-
-- [**TypeScript 入门教程**](https://ts.xcatliu.com/) 推荐阅读
-- [**深入理解 TypeScript**](https://jkchao.github.io/typescript-book-chinese/#why/) 深入理解 ts
+## 一些不明所以的网站
+- [**formic**](https://www.formic.com/) formic
