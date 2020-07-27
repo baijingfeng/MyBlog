@@ -7,25 +7,27 @@ sidebar: auto
 **这里主要推荐一下平时常用的工具。**
 
 ## 通用工具
+
 - [**Google 学术**](https://scholar.google.com)
 - [**掘金高级搜索**](http://zy2071.com/Fun/jueJinSearch.html)
-- [**grep.app**](https://grep.app/)搜索50万个git repos
-- [**Pinbox**](https://withpinbox.com/) 跨平台收藏工具 
-- [**Uzer.me**](https://uzer.me/z/apps) 在网页上面可以直接使用常用的办公工具的云端软件平台 
+- [**grep.app**](https://grep.app/)搜索 50 万个 git repos
+- [**Pinbox**](https://withpinbox.com/) 跨平台收藏工具
+- [**Uzer.me**](https://uzer.me/z/apps) 在网页上面可以直接使用常用的办公工具的云端软件平台
 
 ## 技术工具
-- [**jsPerf**](https://jsperf.com/) 在线js性能测试工具
-- [**StorePreviewer**](https://www.storepreviewer.com)  See What Your App Will Look Like On The App Store
+
+- [**jsPerf**](https://jsperf.com/) 在线 js 性能测试工具
+- [**StorePreviewer**](https://www.storepreviewer.com) See What Your App Will Look Like On The App Store
 - [**squoosh**](https://squoosh.app/) Squoosh 是一个理想的图片压缩，可以离线使用的 Web App
-- [**lerna**](https://github.com/lerna/lerna) Lerna是一个管理包含多个软件包的JavaScript项目的工具
+- [**lerna**](https://github.com/lerna/lerna) Lerna 是一个管理包含多个软件包的 JavaScript 项目的工具
 - [**ReLaXed**](https://github.com/RelaxedJS/ReLaXed) 一个将 document html 转成 PDF 的工具
 - [**tui.editor**](https://github.com/nhnent/tui.editor) markdown 所见即所得编辑器
 - [**percollate**](https://github.com/danburzo/percollate) 命令行工具 能将网页转换成 pdf
-- [**cloudquery**](https://github.com/cloudfetch/cloudquery) 点击几下就可以把任何网站变成API
+- [**cloudquery**](https://github.com/cloudfetch/cloudquery) 点击几下就可以把任何网站变成 API
 - [**public-apis**](https://github.com/toddmotto/public-apis) 汇集了市面上一些对外免费开放的 api，做一些自己练手 app 的时候很好用
 - [**runkit**](https://runkit.com) 一个基于 node 的在线 playground
 - [**sketchviz**](https://sketchviz.com/new) 手绘风格流程图
-- [**storybook**](https://github.com/storybooks/storybook)Storybook是一个UI组件的开发环境。它允许您浏览组件库，查看每个组件的不同状态，以及交互式地开发和测试组件。
+- [**storybook**](https://github.com/storybooks/storybook)Storybook 是一个 UI 组件的开发环境。它允许您浏览组件库，查看每个组件的不同状态，以及交互式地开发和测试组件。
 - [**high-speed-downloader**](https://github.com/high-speed-downloader/high-speed-downloader) 百度网盘不限速下载 支持 Windows 和 Mac
 - [**hyper**](https://github.com/zeit/hyper) 前端命令行
 - [**yapi**](https://github.com/ymfe/yapi) 是一个可本地部署的、打通前后端及 QA 的、可视化的接口管理平台
@@ -85,32 +87,37 @@ sidebar: auto
 - [**outline**](https://github.com/outline/outline) 一个免费开源的库，能让你快速搭建自己的 wiki
 
 ## 浏览器
-- [**Chrome**](https://www.google.com/chrome/) 
-- [**Firefox**](http://www.firefox.com.cn/) 
-- [**Firefox 开发者版本**](https://www.mozilla.org/zh-CN/firefox/developer/) 
-- [**Edge**](https://www.microsoft.com/zh-cn/edge) 
-- [**Opera**](http://www.oupeng.com/tor) 
-- [**Safari**](https://www.apple.com.cn/safari/) 
-- [**QQ浏览器**](https://browser.qq.com/?adtag=SEM170314031) 
+
+- [**Chrome**](https://www.google.com/chrome/)
+- [**Firefox**](http://www.firefox.com.cn/)
+- [**Firefox 开发者版本**](https://www.mozilla.org/zh-CN/firefox/developer/)
+- [**Edge**](https://www.microsoft.com/zh-cn/edge)
+- [**Opera**](http://www.oupeng.com/tor)
+- [**Safari**](https://www.apple.com.cn/safari/)
+- [**QQ 浏览器**](https://browser.qq.com/?adtag=SEM170314031)
 
 ## VS Code
-  ### 通用
-  - [**Import Cost**](https://marketplace.visualstudio.com/items?itemName=wix.vscode-import-cost) 查看你引入的依赖模块大小
-  - [**Auto Close Tag**](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-close-tag) 自动补全 html 标签，如输入`<a>`将自动补全`</a>`
-  - [**Auto Rename Tag**](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-rename-tag) 自动重命名 html 标签，如修改`<a>为<b>`，将自动修改结尾标签`</a>为</b>`
-  - [**polacode**](https://github.com/octref/polacode) 生产代码图片快照插件
-  - [**vscode-leetcode**](https://github.com/jdneo/vscode-leetcode) 一个能让你在 vscode 中刷 LeetCode 的插件 算一个划水神器吧
-  - [**vscode-icons**](https://marketplace.visualstudio.com/items?itemName=robertohuertasm.vscode-icons) VS Code 必备吧，为文件添加炫图标
-  - [**CodeSnap**](https://marketplace.visualstudio.com/items?itemName=adpyke.codesnap) 生产代码截图
 
-  ### 主题
-  - [**官方主题页**](https://marketplace.visualstudio.com/search?target=VSCode&category=Themes&sortBy=Installs) 可以选择自己喜欢的主题
-  - [**one-monokai**](https://marketplace.visualstudio.com/items?itemName=azemoh.one-monokai) 我用的是这个主题，很多年了
+### 通用
 
-  ### 字体
-  - [**FiraCode**](https://github.com/tonsky/firacode)
-  - [**Dank Mono**](https://dank.sh/)
-  - [**Operator Mono**](https://www.typography.com/blog/introducing-operator)
+- [**Import Cost**](https://marketplace.visualstudio.com/items?itemName=wix.vscode-import-cost) 查看你引入的依赖模块大小
+- [**Auto Close Tag**](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-close-tag) 自动补全 html 标签，如输入`<a>`将自动补全`</a>`
+- [**Auto Rename Tag**](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-rename-tag) 自动重命名 html 标签，如修改`<a>为<b>`，将自动修改结尾标签`</a>为</b>`
+- [**polacode**](https://github.com/octref/polacode) 生产代码图片快照插件
+- [**vscode-leetcode**](https://github.com/jdneo/vscode-leetcode) 一个能让你在 vscode 中刷 LeetCode 的插件 算一个划水神器吧
+- [**vscode-icons**](https://marketplace.visualstudio.com/items?itemName=robertohuertasm.vscode-icons) VS Code 必备吧，为文件添加炫图标
+- [**CodeSnap**](https://marketplace.visualstudio.com/items?itemName=adpyke.codesnap) 生产代码截图
+
+### 主题
+
+- [**官方主题页**](https://marketplace.visualstudio.com/search?target=VSCode&category=Themes&sortBy=Installs) 可以选择自己喜欢的主题
+- [**one-monokai**](https://marketplace.visualstudio.com/items?itemName=azemoh.one-monokai) 我用的是这个主题，很多年了
+
+### 字体
+
+- [**FiraCode**](https://github.com/tonsky/firacode)
+- [**Dank Mono**](https://dank.sh/)
+- [**Operator Mono**](https://www.typography.com/blog/introducing-operator)
 
 ## Chrome 扩展
 
@@ -133,13 +140,15 @@ sidebar: auto
 - [**掘金**](https://chrome.google.com/webstore/detail/%E6%8E%98%E9%87%91/lecdifefmmfjnjjinhaennhdlmcaeeeb) 目前我默认新开 tab 的默认页，可以刷刷新的文章或者项目，还不错。
 - [**沙拉查词**](https://chrome.google.com/webstore/detail/%E6%B2%99%E6%8B%89%E6%9F%A5%E8%AF%8D-%E8%81%9A%E5%90%88%E8%AF%8D%E5%85%B8%E5%88%92%E8%AF%8D%E7%BF%BB%E8%AF%91/cdonnmffkdaoajfknoeeecmchibpmkmg) 划词翻译插件
 - [**npmhub**](https://github.com/npmhub/npmhub)在 README 下方显示 npm 依赖信息
-- [**Ghelper**](http://googlehelper.net/)一个简单的用于访问google的插件
+- [**Ghelper**](http://googlehelper.net/)一个简单的用于访问 google 的插件
 
 ## 编辑器和 Terminal
+
 - [**Go2shell**](https://zipzapmac.com/Go2Shell) 在当前文件夹打开 shell
 - Terminal 用 [**iTerm2**](https://www.iterm2.com/) + [**zsh**](https://en.wikipedia.org/wiki/Z_shell) + [**oh-my-zsh**](https://github.com/robbyrussell/oh-my-zsh) 的组合，主题是 [robbyrussell](https://github.com/robbyrussell/oh-my-zsh/blob/master/themes/robbyrussell.zsh-theme)
 
 ## zsh 插件
+
 - [**Homebrew**](https://brew.sh/index_zh-cn) 必装
 - [**autojump**](https://github.com/ohmyzsh/ohmyzsh/tree/master/plugins/autojump) 实现目录间快速跳转，想去哪个目录直接 j + 目录名，不用在频繁的 cd 了
 - [**zsh-autosuggestions**](https://github.com/zsh-users/zsh-autosuggestions) 命令自动建议和补全
@@ -148,6 +157,7 @@ sidebar: auto
 - [**zsh-git-prompt**](https://github.com/olivierverdier/zsh-git-prompt) git 分支信息提示
 
 ## 开发常用软件
+
 - [**Github Desktop**](https://github.com/desktop/desktop)管理 github 仓库的变更和 PR
 - [**runjs**](https://runjs.dev/) js 运行沙盒，写 test case 或者面试当场写代码的时候很有用
 - [**Charles**](https://www.charlesproxy.com/) 抓包用，支持 https
@@ -156,11 +166,11 @@ sidebar: auto
 - [**postman**](https://www.getpostman.com/) api 调试工具
 - [**Sequel Pro**](https://www.sequelpro.com/) MySQL 界面管理工具
 - [**KeepingYouAwake**](https://github.com/newmarcel/KeepingYouAwake) 可保证系统不自动休眠，挂机跑脚本很有用
-- [**Swagger UI**](https://swagger.io/tools/swagger-ui/) Swagger 是一个规范和完整的框架，用于生成、描述、调用和可视化 RESTful 风格的 Web 服务，部署管理和使用API
+- [**Swagger UI**](https://swagger.io/tools/swagger-ui/) Swagger 是一个规范和完整的框架，用于生成、描述、调用和可视化 RESTful 风格的 Web 服务，部署管理和使用 API
 
 ## 其他有趣的工具
 
-- [**演示图灵完备**](http://fatiherikli.github.io/brainfuck-visualizer/) Brainfuck Visualizer演示图灵完备
+- [**演示图灵完备**](http://fatiherikli.github.io/brainfuck-visualizer/) Brainfuck Visualizer 演示图灵完备
 - [**the-bread-code**](https://github.com/hendricius/the-bread-code) 使用程序员的思维制作面包 ，比如制作中使用 A/B test,
   来比较那种做法更好。
 - [**build-your-own-x**](https://github.com/danistefanovic/build-your-own-x) 教你用各种语言实现 Bot Database Neural Network
@@ -175,6 +185,7 @@ sidebar: auto
 - [**98.css**](https://jdan.github.io/98.css/#tree-view) windows 98 主题分格 css
 
 ## 录制
+
 - [**licecap**](https://www.cockos.com/licecap/) gif 录制，简洁好用，之前都用这个录制
 - [**kap**](https://getkap.co/) 现在都用这个录制 gif，还支持导出 mp4，录制的 fps 很高
 - [**KeyCastr**](https://github.com/keycastr/keycastr) 按键显示，录制的时候显示你的按键
@@ -182,6 +193,7 @@ sidebar: auto
 ## Ubuntu
 
 ## Mac
+
 - [**get-plain-text**](https://itunes.apple.com/cn/app/get-plain-text/) 能清除剪贴板里的格式 很实用
 - [**IINA**](https://github.com/lhc70000/iina) mac 平台感觉免费最好的播放器 强推
 - [**magnet**](https://itunes.apple.com/cn/app/magnet/id441258766?mt=12&ign-mpt=uo%3D4) 分屏管理
@@ -200,24 +212,25 @@ sidebar: auto
 - [**Gifski**](https://github.com/sindresorhus/gifski-app) 视频转 gif 工具
 - [**more**](https://github.com/serhii-londar/open-source-mac-os-apps) 更多优秀的 mac app 介绍
 - [**Motrix**](https://github.com/agalwood/Motrix) 支持 HTTP、FTP、BT、磁力链、百度网盘的下载工具
-- [**webui-aria2**](https://ziahamza.github.io/webui-aria2/) 下载工具Aria的WebUI工具
+- [**webui-aria2**](https://ziahamza.github.io/webui-aria2/) 下载工具 Aria 的 WebUI 工具
 - [**iPic**](https://apps.apple.com/cn/app/ipic-markdown-%E5%9B%BE%E5%BA%8A-%E6%96%87%E4%BB%B6%E4%B8%8A%E4%BC%A0%E5%B7%A5%E5%85%B7/id1101244278?mt=12)这个应用可以让你方便地上传图片到各种图床
 - [**Image2Icon**](http://www.img2icnsapp.com/)
 - [**hidden**](https://github.com/dwarvesf/hidden) 是用来帮助你隐藏 macOS 菜单栏上那些不常用的应用图标
 
 ## 在线解析工具
-- [**C在线工具**](https://tool.oschina.net)
-- [**esprima.org在线解析AST**](https://esprima.org/demo/parse.html) 
-- [**AST Visualization on browser在线解析AST**](http://nhiro.org/learn_language/AST-Visualization-on-browser.html) 
-- [**ASTexplorer在线解析AST**](https://astexplorer.net/) 
-- [**md5在线解密破解,md5解密加密**](https://www.cmd5.com/) 
-- [**JSON在线解析及格式化验证**](https://www.json.cn) 
-- [**在线二维码生成器**](https://cli.im/) 
-- [**在线正则解析工具**](https://regexper.com) 
-- [**在线正则解析工具**](https://jex.im/regulex/) 
-- [**在线测速**](https://www.17ce.com/) 
-- [**站长工具**](http://tool.chinaz.com/) 
-- [**在线转pdf**](https://www.aconvert.com/cn/pdf/odt-to-pdf/) 
-- [**地图选择器**](http://datav.aliyun.com/tools/atlas/) 获取对应地图区域的geojson和svg
+
+- [**C 在线工具**](https://tool.oschina.net)
+- [**esprima.org 在线解析 AST**](https://esprima.org/demo/parse.html)
+- [**AST Visualization on browser 在线解析 AST**](http://nhiro.org/learn_language/AST-Visualization-on-browser.html)
+- [**ASTexplorer 在线解析 AST**](https://astexplorer.net/)
+- [**md5 在线解密破解,md5 解密加密**](https://www.cmd5.com/)
+- [**JSON 在线解析及格式化验证**](https://www.json.cn)
+- [**在线二维码生成器**](https://cli.im/)
+- [**在线正则解析工具**](https://regexper.com)
+- [**在线正则解析工具**](https://jex.im/regulex/)
+- [**在线测速**](https://www.17ce.com/)
+- [**站长工具**](http://tool.chinaz.com/)
+- [**在线转 pdf**](https://www.aconvert.com/cn/pdf/odt-to-pdf/)
+- [**地图选择器**](http://datav.aliyun.com/tools/atlas/) 获取对应地图区域的 geojson 和 svg
 - [**图片背景消除**](https://www.remove.bg/zh) 在线抠图工具，去除图片背景
 - [**在线删除图片背景**](https://www.gaoding.com/koutu) 在线抠图工具，去除图片背景

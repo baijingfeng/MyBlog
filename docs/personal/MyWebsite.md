@@ -1,7 +1,8 @@
 # 个人收藏网站
 
 ## 阅读网站 && 听书
-- [喜马拉雅FM](https://www.ximalaya.com)
+
+- [喜马拉雅 FM](https://www.ximalaya.com)
 - [学习强国](https://www.xuexi.cn/)
 - [古诗文网](https://so.gushiwen.org/guwen/)
 - [扇贝背单词](https://web.shanbay.com/web/account/login/)
@@ -10,21 +11,24 @@
 - [中国哲学书电子化计划简体字版](https://ctext.org/analects/xue-er/zhs)
 
 ## 博客
+
 - [李建乐](https://blog.edeity.me)
-- [Zhang dajia的博客](http://zhangdajia.com/)
+- [Zhang dajia 的博客](http://zhangdajia.com/)
 - [拉勾老师汪磊](https://zce.me/)
 
 ## 技术网站
 
 ## 视频网站
+
 - [腾讯](https://film.qq.com)
 - [爱奇艺](https://www.iqiyi.com)
-- [B站](https://www.bilibili.com)
-- [AcFun弹幕视频网](https://www.acfun.cn)
+- [B 站](https://www.bilibili.com)
+- [AcFun 弹幕视频网](https://www.acfun.cn)
 - [Pixiv](http://www.pixiv.net/)
-- [Pixiv周边](https://bcy.net/tags/name/pixiv)
+- [Pixiv 周边](https://bcy.net/tags/name/pixiv)
 
 ## 其他
+
 - [icloud](https://www.icloud.com/)
 - [996.ICU](https://github.com/996icu/996.ICU)
 - [TOP500 List - November 2019 | TOP500 Supercomputer Sites](https://www.top500.org/list/2019/11/?page=1)
@@ -40,10 +44,12 @@
 - [wikimedia](https://www.wikimedia.org/)
 
 ## 人工智能 && 虚拟现实
-- [人工智能日报_AI日报_中国人工智能领域知名媒体](http://www.rgznrb.com/)
-- [中国AI网 - 专注AI人工智能技术与分享的网站](https://www.chinaai.com/)
+
+- [人工智能日报*AI 日报*中国人工智能领域知名媒体](http://www.rgznrb.com/)
+- [中国 AI 网 - 专注 AI 人工智能技术与分享的网站](https://www.chinaai.com/)
 - [映维网 - 影响力虚拟现实（VR）、增强现实（AR）产业信息数据平台](https://yivian.com/)
 
 ## 资源共享
-- [ED2000资源共享,电驴下载,eD2k,BT种子](https://www.ed2000k.com/)
+
+- [ED2000 资源共享,电驴下载,eD2k,BT 种子](https://www.ed2000k.com/)
 - [大量好书下载地址](https://www.jianshu.com/p/e894114dcc67)
