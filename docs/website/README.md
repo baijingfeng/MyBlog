@@ -245,4 +245,4 @@ sidebar: auto
 
 ## 一些不明所以的网站
 
-- [**formic**](https://www.formic.com/) formic
+- [**Formic**](https://www.formic.com/) formic

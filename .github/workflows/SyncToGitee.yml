@@ -1,10 +1,6 @@
 name: Sync to Gitee
-on:
-  push:
-    branches:
-      - master
-      - gh-pages
-
+on: [push]
+  
 jobs:
   build:
     runs-on: ubuntu-latest
@@ -22,5 +18,5 @@ jobs:
         with: 
           gitee-username: baijingfeng
           gitee-password: ${{ secrets.GITEE_PASSWORD }}
-          gitee-repo: baijingfeng/bookmarks.git
+          gitee-repo: baijingfeng/bookmarks
           branch: gh-pages

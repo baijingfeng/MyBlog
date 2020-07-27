@@ -520,7 +520,7 @@ gitee 访问地址(github.io 有时候在国内访问会很慢)：[bookmarks](ht
 
 ## 一些不明所以的网站
 
-- [**formic**](https://www.formic.com/) formic
+- [**Formic**](https://www.formic.com/) formic
 
 
 # 常用库与工具
