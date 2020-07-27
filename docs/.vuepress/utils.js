@@ -25,6 +25,5 @@ exports.inferSiderbars = () => {
       }
     ]
   })
-  console.log('sidebar', JSON.stringify(sidebar))
   return sidebar
 }
