@@ -20,6 +20,7 @@ gitee 访问地址(github.io 有时候在国内访问会很慢)：[bookmarks](ht
       - [2.构建工具](#2%E6%9E%84%E5%BB%BA%E5%B7%A5%E5%85%B7)
       - [3.打包工具](#3%E6%89%93%E5%8C%85%E5%B7%A5%E5%85%B7)
       - [4.格式化工具 & 其他](#4%E6%A0%BC%E5%BC%8F%E5%8C%96%E5%B7%A5%E5%85%B7--%E5%85%B6%E4%BB%96)
+      - [5.持续集成工具](#5%E6%8C%81%E7%BB%AD%E9%9B%86%E6%88%90%E5%B7%A5%E5%85%B7)
     + [语言与框架](#%E8%AF%AD%E8%A8%80%E4%B8%8E%E6%A1%86%E6%9E%B6)
     + [兼容性](#%E5%85%BC%E5%AE%B9%E6%80%A7)
     + [其他](#%E5%85%B6%E4%BB%96)
@@ -184,6 +185,11 @@ gitee 访问地址(github.io 有时候在国内访问会很慢)：[bookmarks](ht
 - [**ESLint 中文文档**](https://eslint.bootcss.com/)插件化的 JavaScript 代码检测工具
 - [**Prettier**](https://prettier.io/docs/en/options.html) 一个流行的代码格式化工具
 - [**Babel**](https://www.babeljs.cn/docs/) Babel 是一个工具链，主要用于将 ECMAScript 2015+ 版本的代码转换为向后兼容的 JavaScript 语法，以便能够运行在当前和旧版本的浏览器或其他环境中。
+
+#### 5.持续集成工具
+- [**Travis CI**](https://www.travis-ci.org/)在线托管的持续集成服务,绑定Github项目,抓取新的代码自动进行测试构建,甚至自动部署到测试环境。
+- [**Jenkins**](https://www.jenkins.io/)一个开源软件项目，是基于Java开发的一种持续集成工具，用于监控持续重复的工作，旨在提供一个开放易用的软件平台，使软件的持续集成变成可能
+
 
 ### 语言与框架
 
