@@ -121,7 +121,7 @@ sidebar: auto
 
 ## Chrome 扩展
 
-- [**图片助手(ImageAssistant) **](https://chrome.google.com/webstore/detail/imageassistant-batch-imag/dbjbempljhcmhlfpfacalomonjpalpko) 图片助手(ImageAssistant) 批量图片下载器
+- [**图片助手(ImageAssistant)**](https://chrome.google.com/webstore/detail/imageassistant-batch-imag/dbjbempljhcmhlfpfacalomonjpalpko) 图片助手(ImageAssistant) 批量图片下载器
 - [**Tampermonkey**](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo) 油猴 神器
 - [**扩展管理器**](https://chrome.google.com/webstore/detail/extension-manager/gjldcdngmdknpinoemndlidpcabkggco/related?utm_source=chrome-ntp-icon) 轻松管理扩展，就不用担心安装太多扩展了
 - [**visbug**](https://github.com/GoogleChromeLabs/ProjectVisBug) 它可以帮助你改变 css，移动元素等等一系类强大的功能,页面调试神器。当然有些时候还是 DevTools 更好用
@@ -174,7 +174,7 @@ sidebar: auto
 - [**the-bread-code**](https://github.com/hendricius/the-bread-code) 使用程序员的思维制作面包 ，比如制作中使用 A/B test,
   来比较那种做法更好。
 - [**build-your-own-x**](https://github.com/danistefanovic/build-your-own-x) 教你用各种语言实现 Bot Database Neural Network
-- [**javascript-algorithms **](https://github.com/trekhleb/javascript-algorithms) 教你用前端知识认识各种算法
+- [**javascript-algorithms**](https://github.com/trekhleb/javascript-algorithms) 教你用前端知识认识各种算法
 - [**not-paid**](https://github.com/kleampa/not-paid) 如果你给人做网站，交过去以后对方没有付款，那么这个 JS 会把网站的透明度一天调低一点，直到看不见
 - [**nsfwjs**](https://github.com/infinitered/nsfwjs) 前端图片鉴黄，基于 Tensorflow
 - [**elevator.js**](https://github.com/tholman/elevator.js) 我很喜欢的一个库，让一个 back-to-top 的效果有了一种坐复古电梯的感觉

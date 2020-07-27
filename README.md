@@ -320,7 +320,7 @@ gitee 访问地址(github.io 有时候在国内访问会很慢)：[bookmarks](ht
 
 ## 收集的网站或收藏册
 
-- [**😎 Awesome lists **](https://github.com/sindresorhus/awesome) github 上各种 Awesome 的集合
+- [**😎 Awesome lists**](https://github.com/sindresorhus/awesome) github 上各种 Awesome 的集合
 - [**awesome-bookmarks**](https://panjiachen.gitee.io/awesome-bookmarks/repository/) panjiachen 的收藏站，也是本网站最初复制整理的网站。
 - [**前端技术专题集**](https://github.com/qq449245884/xiaozhi) 前端技术专题集
 - [**overreacted**](https://overreacted.io/) react Dan 的个人博客，更新频率很高（redux 作者，react 核心开发）
@@ -387,7 +387,7 @@ gitee 访问地址(github.io 有时候在国内访问会很慢)：[bookmarks](ht
 - [**photopea**](https://www.photopea.com/) 一个网页端 Photoshop 很变态
 - [**bestofjs**](https://bestofjs.org/) 查看一个项目增长经历，Star 数变化的网站，辅助你判断这个库的质量
 - [**stackblitz**](https://stackblitz.com/) 一款在线 IDE,主要面向 Web 开发者,移植了很多 VS Code 的特性与功能
-- [**programmingfonts.org **](http://app.programmingfonts.org) 一个专门介绍编程字体的网站
+- [**programmingfonts.org**](http://app.programmingfonts.org) 一个专门介绍编程字体的网站
 - [**早报**](https://wubaiqing.github.io/zaobao/) 一个个人开发者的前端开发的分享日报
 - [**emoji-search**](https://emoji.muan.co/#) 帮你快速找到能表达你情感的 emoji
 - [**gitmoji**](https://github.com/carloscuesta/gitmoji) 通过 emoji 表达 git 的操作内容
@@ -429,7 +429,7 @@ gitee 访问地址(github.io 有时候在国内访问会很慢)：[bookmarks](ht
 - [**Ikonate**](https://github.com/mikolajdobrucki/ikonate) 提供免费的图标 icons
 - [**remixicon**](https://remixicon.com/) 又一个提供免费图标 icons
 - [**feather**](https://github.com/feathericons/feather) 免费的 icons
-- [**nord **](https://github.com/arcticicestudio/nord) 北欧性冷淡风主题配色
+- [**nord**](https://github.com/arcticicestudio/nord) 北欧性冷淡风主题配色
 - [**Unsplash**](https://unsplash.com/) 提供免费的高清图片
 - [**colorkitty**](https://colorkitty.com/) 从你的图片中提取配色
 - [**design.youzan**](design.youzan.com) 有赞设计原则
@@ -594,8 +594,8 @@ gitee 访问地址(github.io 有时候在国内访问会很慢)：[bookmarks](ht
 - [**photoswipe**](https://github.com/dimsemenov/photoswipe) 图片预览组件，支持移动端
 - [**darken**](https://github.com/ColinEspinas/darken) 页面黑夜模式切换
 - [**mitt**](https://github.com/developit/mitt) Tiny 200b functional event emitter / pubsub
-- [sanitize-html](https://github.com/apostrophecms/sanitize-html) html 过滤库，防 xss
-- [DOMPurify](https://github.com/cure53/DOMPurify) 比 sanitize-html 更轻量，建议一般业务用这个
+- [**sanitize-html**](https://github.com/apostrophecms/sanitize-html) html 过滤库，防 xss
+- [**DOMPurify**](https://github.com/cure53/DOMPurify) 比 sanitize-html 更轻量，建议一般业务用这个
 - [**mdx**](https://github.com/mdx-js/mdx) jsx + markdown
 
 ### Css && 动画
@@ -904,7 +904,7 @@ gitee 访问地址(github.io 有时候在国内访问会很慢)：[bookmarks](ht
 
 ## Chrome 扩展
 
-- [**图片助手(ImageAssistant) **](https://chrome.google.com/webstore/detail/imageassistant-batch-imag/dbjbempljhcmhlfpfacalomonjpalpko) 图片助手(ImageAssistant) 批量图片下载器
+- [**图片助手(ImageAssistant)**](https://chrome.google.com/webstore/detail/imageassistant-batch-imag/dbjbempljhcmhlfpfacalomonjpalpko) 图片助手(ImageAssistant) 批量图片下载器
 - [**Tampermonkey**](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo) 油猴 神器
 - [**扩展管理器**](https://chrome.google.com/webstore/detail/extension-manager/gjldcdngmdknpinoemndlidpcabkggco/related?utm_source=chrome-ntp-icon) 轻松管理扩展，就不用担心安装太多扩展了
 - [**visbug**](https://github.com/GoogleChromeLabs/ProjectVisBug) 它可以帮助你改变 css，移动元素等等一系类强大的功能,页面调试神器。当然有些时候还是 DevTools 更好用
@@ -957,7 +957,7 @@ gitee 访问地址(github.io 有时候在国内访问会很慢)：[bookmarks](ht
 - [**the-bread-code**](https://github.com/hendricius/the-bread-code) 使用程序员的思维制作面包 ，比如制作中使用 A/B test,
   来比较那种做法更好。
 - [**build-your-own-x**](https://github.com/danistefanovic/build-your-own-x) 教你用各种语言实现 Bot Database Neural Network
-- [**javascript-algorithms **](https://github.com/trekhleb/javascript-algorithms) 教你用前端知识认识各种算法
+- [**javascript-algorithms**](https://github.com/trekhleb/javascript-algorithms) 教你用前端知识认识各种算法
 - [**not-paid**](https://github.com/kleampa/not-paid) 如果你给人做网站，交过去以后对方没有付款，那么这个 JS 会把网站的透明度一天调低一点，直到看不见
 - [**nsfwjs**](https://github.com/infinitered/nsfwjs) 前端图片鉴黄，基于 Tensorflow
 - [**elevator.js**](https://github.com/tholman/elevator.js) 我很喜欢的一个库，让一个 back-to-top 的效果有了一种坐复古电梯的感觉

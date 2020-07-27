@@ -73,8 +73,8 @@ sidebar: auto
 - [**photoswipe**](https://github.com/dimsemenov/photoswipe) 图片预览组件，支持移动端
 - [**darken**](https://github.com/ColinEspinas/darken) 页面黑夜模式切换
 - [**mitt**](https://github.com/developit/mitt) Tiny 200b functional event emitter / pubsub
-- [sanitize-html](https://github.com/apostrophecms/sanitize-html) html 过滤库，防 xss
-- [DOMPurify](https://github.com/cure53/DOMPurify) 比 sanitize-html 更轻量，建议一般业务用这个
+- [**sanitize-html**](https://github.com/apostrophecms/sanitize-html) html 过滤库，防 xss
+- [**DOMPurify**](https://github.com/cure53/DOMPurify) 比 sanitize-html 更轻量，建议一般业务用这个
 - [**mdx**](https://github.com/mdx-js/mdx) jsx + markdown
 
 ### Css && 动画

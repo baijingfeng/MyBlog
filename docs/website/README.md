@@ -45,7 +45,7 @@ sidebar: auto
 
 ## 收集的网站或收藏册
 
-- [**😎 Awesome lists **](https://github.com/sindresorhus/awesome) github 上各种 Awesome 的集合
+- [**😎 Awesome lists**](https://github.com/sindresorhus/awesome) github 上各种 Awesome 的集合
 - [**awesome-bookmarks**](https://panjiachen.gitee.io/awesome-bookmarks/repository/) panjiachen 的收藏站，也是本网站最初复制整理的网站。
 - [**前端技术专题集**](https://github.com/qq449245884/xiaozhi) 前端技术专题集
 - [**overreacted**](https://overreacted.io/) react Dan 的个人博客，更新频率很高（redux 作者，react 核心开发）
@@ -112,7 +112,7 @@ sidebar: auto
 - [**photopea**](https://www.photopea.com/) 一个网页端 Photoshop 很变态
 - [**bestofjs**](https://bestofjs.org/) 查看一个项目增长经历，Star 数变化的网站，辅助你判断这个库的质量
 - [**stackblitz**](https://stackblitz.com/) 一款在线 IDE,主要面向 Web 开发者,移植了很多 VS Code 的特性与功能
-- [**programmingfonts.org **](http://app.programmingfonts.org) 一个专门介绍编程字体的网站
+- [**programmingfonts.org**](http://app.programmingfonts.org) 一个专门介绍编程字体的网站
 - [**早报**](https://wubaiqing.github.io/zaobao/) 一个个人开发者的前端开发的分享日报
 - [**emoji-search**](https://emoji.muan.co/#) 帮你快速找到能表达你情感的 emoji
 - [**gitmoji**](https://github.com/carloscuesta/gitmoji) 通过 emoji 表达 git 的操作内容
@@ -154,7 +154,7 @@ sidebar: auto
 - [**Ikonate**](https://github.com/mikolajdobrucki/ikonate) 提供免费的图标 icons
 - [**remixicon**](https://remixicon.com/) 又一个提供免费图标 icons
 - [**feather**](https://github.com/feathericons/feather) 免费的 icons
-- [**nord **](https://github.com/arcticicestudio/nord) 北欧性冷淡风主题配色
+- [**nord**](https://github.com/arcticicestudio/nord) 北欧性冷淡风主题配色
 - [**Unsplash**](https://unsplash.com/) 提供免费的高清图片
 - [**colorkitty**](https://colorkitty.com/) 从你的图片中提取配色
 - [**design.youzan**](design.youzan.com) 有赞设计原则
