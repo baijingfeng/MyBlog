@@ -316,7 +316,6 @@ gitee 访问地址(github.io 有时候在国内访问会很慢)：[bookmarks](ht
 - [**cnode**](https://cnodejs.org/)Node.js 专业中文社区
 - [**V2EX**](https://www.v2ex.com/) 挺活跃的一个技术论坛
 - [**InfoQ**](https://www.infoq.cn/topic/Front-end) 文章的质量比一般网站的高不少
-- [**InfoQ**](https://www.infoq.cn/topic/Front-end) 文章的质量比一般网站的高不少
 
 ## 收集的网站或收藏册
 
