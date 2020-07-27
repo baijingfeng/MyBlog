@@ -1,0 +1,17 @@
+name: 同步代码至gitee
+on:
+  push:
+    branches:
+      - master
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Sync to Gitee 💕
+        uses: wearerequired/git-mirror-action@master
+        env:
+          SSH_PRIVATE_KEY: ${{ secrets.GITEE_PRIVATE_KEY }}
+        with:
+          source-repo: 'git@github.com:baijingfeng/bookmarks.git'
+          destination-repo: 'git@gitee.com:baijingfeng/bookmarks.git'

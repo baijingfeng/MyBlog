@@ -10,7 +10,7 @@
     "build": "vuepress build docs",
     "lint": "prettier --write 'docs/**/*.md'",
     "deploy": "yarn build && bash scripts/deploy-gh.sh && yarn release",
-    "release": "node scripts/generateReadme.js"
+    "release": "node scripts/generateReadme.js && bash scripts/release.sh"
   },
   "devDependencies": {
     "gray-matter": "^4.0.2",
