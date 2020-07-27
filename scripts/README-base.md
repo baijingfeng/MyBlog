@@ -1,6 +1,6 @@
-<p align="center">
+<!-- <p align="center">
   <img width="320" src="../assets/home.jpg">
-</p>
+</p> -->
 
 # Bai Bookmarks
 在线地址：https://baijingfeng.github.io/bookmarks
