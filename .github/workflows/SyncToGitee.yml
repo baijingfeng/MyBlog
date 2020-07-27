@@ -3,6 +3,7 @@ on:
   push:
     branches:
       - master
+      - gh-pages
 
 jobs:
   build:
@@ -22,3 +23,4 @@ jobs:
           gitee-username: baijingfeng
           gitee-password: ${{ secrets.GITEE_PASSWORD }}
           gitee-repo: baijingfeng/bookmarks.git
+          branch: gh-pages
