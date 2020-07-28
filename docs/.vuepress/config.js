@@ -11,6 +11,19 @@ module.exports = {
         rel: 'icon',
         href: '/favicon.ico'
       }
+    ],
+    [
+      'script',
+      {},
+      `
+      var _hmt = _hmt || [];
+      (function() {
+        var hm = document.createElement("script");
+        hm.src = "https://hm.baidu.com/hm.js?c2f8fd7487a1a0a4b7d3a928394ba615";
+        var s = document.getElementsByTagName("script")[0]; 
+        s.parentNode.insertBefore(hm, s);
+      })();
+      `
     ]
   ],
   themeConfig: {
